@@ -3,9 +3,10 @@
 ## Problem
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105189621/168539410-d5d409d0-0ec4-4e1b-be76-86c21b84f4bd.png">
+  <img src="https://user-images.githubusercontent.com/105189621/168540778-433d958f-b849-41ae-b534-370736a49f1d.png">
 </p>
 
+単に、二値化を行うだけでは上記の画像のように気泡を読み取ることができないので、二値化を行う範囲を限定的にすることでこの問題を解決しようと考え以下を取り組んだ。
 
 ## Black and White
 
