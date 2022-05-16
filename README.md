@@ -24,3 +24,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105189621/168535385-dfffafb9-cc54-41ab-92d9-39b91455e1a1.png">
 </p>
+
+## Removed Picuture
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105189621/168537313-912e87be-d9ac-46a7-96f6-540cdd32718f.png">
+</p>
