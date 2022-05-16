@@ -3,7 +3,7 @@
 ## Problem
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105189621/168540778-433d958f-b849-41ae-b534-370736a49f1d.png">
+  <img src="https://user-images.githubusercontent.com/105189621/168541015-ca8f2ae1-b214-42c8-8dd3-9369f7272b8d.png">
 </p>
 
 単に、二値化を行うだけでは上記の画像のように気泡を読み取ることができないので、二値化を行う範囲を限定的にすることでこの問題を解決しようと考え以下を取り組んだ。
