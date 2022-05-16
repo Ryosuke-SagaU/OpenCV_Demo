@@ -1,5 +1,12 @@
 # OpenCV_Demo
 
+## Problem
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105189621/168539410-d5d409d0-0ec4-4e1b-be76-86c21b84f4bd.png">
+</p>
+
+
 ## Black and White
 
 <p align="center">
