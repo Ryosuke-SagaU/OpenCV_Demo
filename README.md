@@ -12,11 +12,10 @@
   <img src="https://user-images.githubusercontent.com/105189621/168532933-2e2d0d3c-6068-4878-a1a4-8ecec361ed31.png">
 </p>
 
-
 ## Convert above picture into Black and White
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105189621/168532972-4c9063c4-4ed7-41fe-ab09-2a175263aa65.png">
+  <img src="https://user-images.githubusercontent.com/105189621/168537837-e46190a0-a04f-4524-8803-d33f06d1b333.jpg">
 </p>
 
 ## Removed Picuture
