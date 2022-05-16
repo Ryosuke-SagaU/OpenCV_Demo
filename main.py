@@ -6,8 +6,18 @@ import numpy as np
 # / → // で表現する
 img = cv2.imread("C:\\Users\\Ryosuke Nikushi\\picture.png")
 
-# GrayPicture
-img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+#y_step=50
+y_step=40
+x_step=50
+
+img_y,img_x=img.shape[:2]
+
+img[y_step:img_y:y_step, :, :] = 255
+img[:, x_step:img_x:x_step, :] = 255
+
+cv2.imwrite("C:\\Users\\Ryosuke Nikushi\\newpicture.png", img)
+
+#img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 # ここに，パスを通して保存する
-cv2.imwrite("C:\\Users\\Ryosuke Nikushi\\newpicture.png", img_gray)
+#cv2.imwrite("C:\\Users\\Ryosuke Nikushi\\newpicture.png", img_gray)
